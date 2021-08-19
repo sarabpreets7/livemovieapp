@@ -1,5 +1,5 @@
 import logo from './logo.svg';
-import {BrowserRouter, Switch, Route} from 'react-router-dom';
+import {HashRouter, Switch, Route} from 'react-router-dom';
 import './App.css';
 import NavBar from './components/navBar/navbar';
 import MovieList from './containers/moviesList/moviesList';
@@ -8,7 +8,7 @@ import HomePage from './containers/Pages/HomePage/homePage';
 
 function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       
       <Switch>       
         <Route path='/' exact component={HomePage} />
@@ -18,8 +18,9 @@ function App() {
         
         
       </Switch>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
 export default App;
+
