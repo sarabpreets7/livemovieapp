@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/livemovieapp/static/css/main.82f4d8ce.chunk.css",
-    "main.js": "/livemovieapp/static/js/main.2e10d5e6.chunk.js",
-    "main.js.map": "/livemovieapp/static/js/main.2e10d5e6.chunk.js.map",
+    "main.js": "/livemovieapp/static/js/main.8e87d273.chunk.js",
+    "main.js.map": "/livemovieapp/static/js/main.8e87d273.chunk.js.map",
     "runtime-main.js": "/livemovieapp/static/js/runtime-main.0196b535.js",
     "runtime-main.js.map": "/livemovieapp/static/js/runtime-main.0196b535.js.map",
-    "static/js/2.af26ca9b.chunk.js": "/livemovieapp/static/js/2.af26ca9b.chunk.js",
-    "static/js/2.af26ca9b.chunk.js.map": "/livemovieapp/static/js/2.af26ca9b.chunk.js.map",
+    "static/js/2.e2ede5ed.chunk.js": "/livemovieapp/static/js/2.e2ede5ed.chunk.js",
+    "static/js/2.e2ede5ed.chunk.js.map": "/livemovieapp/static/js/2.e2ede5ed.chunk.js.map",
     "static/js/3.7075099b.chunk.js": "/livemovieapp/static/js/3.7075099b.chunk.js",
     "static/js/3.7075099b.chunk.js.map": "/livemovieapp/static/js/3.7075099b.chunk.js.map",
     "index.html": "/livemovieapp/index.html",
     "static/css/main.82f4d8ce.chunk.css.map": "/livemovieapp/static/css/main.82f4d8ce.chunk.css.map",
-    "static/js/2.af26ca9b.chunk.js.LICENSE.txt": "/livemovieapp/static/js/2.af26ca9b.chunk.js.LICENSE.txt",
+    "static/js/2.e2ede5ed.chunk.js.LICENSE.txt": "/livemovieapp/static/js/2.e2ede5ed.chunk.js.LICENSE.txt",
     "static/media/loader.4173dabd.ico": "/livemovieapp/static/media/loader.4173dabd.ico",
     "static/media/logo.6ce24c58.svg": "/livemovieapp/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.0196b535.js",
-    "static/js/2.af26ca9b.chunk.js",
+    "static/js/2.e2ede5ed.chunk.js",
     "static/css/main.82f4d8ce.chunk.css",
-    "static/js/main.2e10d5e6.chunk.js"
+    "static/js/main.8e87d273.chunk.js"
   ]
 }
